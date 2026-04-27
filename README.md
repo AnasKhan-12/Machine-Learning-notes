@@ -2,5 +2,5 @@
 
 Machine Learning notes from the playlist of 100 days of Machine Learning by CampusX
 
-This repository covers notes from Standardization (Day 24) to Decsion Trees (Day 61).
+This repository covers notes from Standardization (Day 24) to Decision Trees (Day 61).
 All the notes prior to Day 24 were noted on Register so not available here in the repository.
